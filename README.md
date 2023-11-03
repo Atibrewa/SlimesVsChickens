@@ -12,5 +12,3 @@ To run the game, you just need to run gamehandler, select a difficulty level, an
 This version is somewhat simplified from our original plan, though not by very much. We originally planned to have multiple maps with different trackways, which we ended up not doing. We also originally planned to have tower upgrades where you could spend money to increase the attack or speed of towers you had already placed. However, this was too much to complete in the given timeframe. However, we added some things such as the slime/tower descriptions showing up when you click on the slime images in the user interface, armoured chickens, a tower that attacks the enemy furthest from it, and projectiles.
 
 There were multiple parts that were difficult. Programming the projectiles was especially hard, as was figuring out the tower attack methods. We also ran into some trouble with making the tower descriptions appear/change properly in the user interface without causing lag, though we eventually figured it out.
-
-
